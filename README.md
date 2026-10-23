@@ -12,7 +12,14 @@ opgelost met [SCIP](https://www.scipopt.org/) via [PySCIPOpt](https://github.com
 | `personeelsplanning.ipynb` | Het notebook (uitleg, model, visualisatie, oefeningen) |
 | `requirements.txt` | Python-afhankelijkheden die Binder installeert |
 
+## Starten op mybinder
+[https://mybinder.org/v2/gh/jsoons/mybinder/HEAD?labpath=personeelsplanning.ipynb]
+
+
+
+
 ## Op mybinder.org zetten
+
 
 1. Zet beide bestanden in de **root** van een publieke Git-repository (GitHub, GitLab, ...).
 2. Ga naar <https://mybinder.org>, kies GitHub/GitLab/Git-URL en vul de repo-URL in
