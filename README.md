@@ -14,7 +14,7 @@ opgelost met [SCIP](https://www.scipopt.org/) via [PySCIPOpt](https://github.com
 
 ## Starten op mybinder
 [https://mybinder.org/v2/gh/jsoons/mybinder/HEAD?labpath=personeelsplanning.ipynb]
-[https://mybinder.org/v2/gh/jsoons/mybinder/]
+[https://mybinder.org/v2/gh/jsoons/mybinder/HEAD]
 
 
 
